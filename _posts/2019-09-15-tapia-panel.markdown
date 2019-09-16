@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ACM Tapia Celebration Panel September 24th"
+title:  "ACM Tapia Celebration Panel on September 24th"
 categories: jekyll update
 author:
   name: Nicholas Perello
