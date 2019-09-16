@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "ACM Tapia Celebration Panel"
+categories: jekyll update
+author:
+  name: Nicholas Perello
+---
+B[U]ILT will hosting a panel featuring Nicholas Perello and Nader Akoury to discuss what they learned and experienced in this year's Tapia conference. We will also discuss how to attend next year's conference. The panel will be on Tuesday, September 24th at 2 PM in the CS building room 150. Snacks will be provided.
